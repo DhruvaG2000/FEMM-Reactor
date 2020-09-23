@@ -67,7 +67,14 @@ This is the cross-section of our coil.
 
 ![green](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/final.PNG)
 
-Plot 
-# results
+5) Problem Definition: click on Problem and copy everything as shown below
+
+![prb](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/problem_def.PNG)
+
+4) Now, hit the ![im](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/mesh.PNG) icon >> then ![im](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/calculate.PNG) >> and finally ![view](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/view.PNG) 
+
+4) You should now be able to see magnetic field lines emanating as you would expect from an excited coil.
+
+# Results
 
 ![Result Plot](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG)
