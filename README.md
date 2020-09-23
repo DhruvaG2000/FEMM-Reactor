@@ -75,6 +75,11 @@ This is the cross-section of our coil.
 
 4) You should now be able to see magnetic field lines emanating as you would expect from an excited coil.
 
+5) To view a colorful distribution of the magnetic field, click on 
+![]() >> and select show density plot
+
+![]()
+
 # Results
 
 ![Result Plot](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG)
