@@ -23,6 +23,8 @@ Current | 1700A
 Inner Diameter | 0.75m
 Outer Diameter | 0.85m
 Conductor Material | Aluminium
+frequency | 50 Hz
+Turns   | 100
 
 Now, open up FEMM 4.2 and follow the steps below
 
