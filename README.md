@@ -19,10 +19,10 @@ Basically, in a 2-D plane you will have something that looks like this...
 **We are going to perform this Magnetic Field analysis according to the following specifications**
 Element | Value
 ------------ | -------------
-current through the coil | 1700A
-Inner Dia | 0.75m
-OD | 0.85m
-Material | Aluminium
+Current | 1700A
+Inner Diameter | 0.75m
+Outer Diameter | 0.85m
+Conductor Material | Aluminium
 
 Now, open up FEMM 4.2 and follow the steps below
 
