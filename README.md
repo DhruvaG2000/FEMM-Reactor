@@ -16,14 +16,12 @@ Basically, in a 2-D plane you will have something that looks like this...
 
 ![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/cut-section-of-inductor.PNG)
 
-** We are going to perform this Magnetic Field analysis according to the following specifications **
-current through the coil = 1700A
+**We are going to perform this Magnetic Field analysis according to the following specifications**
 
-Inner Dia = 0.75m
-
-OD = 0.85m
-
-Material: Aluminium
+current through the coil | 1700A
+Inner Dia | 0.75m
+OD | 0.85m
+Material | Aluminium
 
 Now, open up FEMM 4.2 and follow the steps below
 
