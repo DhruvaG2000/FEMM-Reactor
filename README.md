@@ -7,7 +7,7 @@ Finite Element Method Magnetics (FEMM) is a finite element package for solving 2
 
 ## Model Construction and Analysis
 
-This will take you through a step-by-step process to analyze the magnetic field of an aircored solenoid sitting in open space as shown below. 
+This will take you through a step-by-step process to analyze the magnetic field of an aircored reactor sitting in open space as shown below. (the enclosed cylindrical structures are the air core reactors) . 
 
 ![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/air-reactor.PNG)
 
