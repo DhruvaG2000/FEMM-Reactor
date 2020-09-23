@@ -9,11 +9,13 @@ Finite Element Method Magnetics (FEMM) is a finite element package for solving 2
 
 This will take you through a step-by-step process to analyze the magnetic field of an aircored solenoid sitting in open space as shown below. 
 
-![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/cut-section-of-inductor.PNG)
+![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/inductor_preview.jfif)
 
 In FEMM, we take a cross section of this solenoid along it's axis, imagine if the inductor was kept standing with it's axis facing upwards and you took a knife and cut it like a cake. 
 Basically, in a 2-D plane you will have something that looks like this...
-![img]()
+
+![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/cut-section-of-inductor.PNG)
+
 ** We are going to perform this Magnetic Field analysis according to the following specifications **
 current through the coil = 1700A
 
