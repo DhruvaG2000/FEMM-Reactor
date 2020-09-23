@@ -1,5 +1,5 @@
-# FEMM-inductor-tutorial
-An FEMM simulation of an Air Core Inductor
+# Air Core Reactor in FEMM
+An FEMM analysis of an Air Core Inductor
 
 ## Introduction
 
