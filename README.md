@@ -9,11 +9,13 @@ Finite Element Method Magnetics (FEMM) is a finite element package for solving 2
 
 This will take you through a step-by-step process to analyze the magnetic field of an aircored solenoid sitting in open space as shown below. 
 
-![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/cut-section-of-inductor.PNG)
+![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/inductor_preview.jfif)
 
 In FEMM, we take a cross section of this solenoid along it's axis, imagine if the inductor was kept standing with it's axis facing upwards and you took a knife and cut it like a cake. 
 Basically, in a 2-D plane you will have something that looks like this...
-![img]()
+
+![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/cut-section-of-inductor.PNG)
+
 ** We are going to perform this Magnetic Field analysis according to the following specifications **
 current through the coil = 1700A
 
@@ -85,5 +87,7 @@ This is the cross-section of our coil.
 ![Result Plot](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG)
 
 # Areas of Application:
-    - Reactors are installed at substations to help stabilize the power system. However due to high amounts of AC current, and inductance, the resultant magnetic field can be fatal to human beings in close proximity to the reactor. Hence, using the above method, and tweaking the parameters according the reactor being used, we can very accurately predict the safety boundaries, beyond which humans can be safe. 
-    - Instead of the air core, we can insert Iron or some other ferromagnetic material inside the inductor and also try to design an electromagnet. 
+
+1) Reactors are installed at substations to help stabilize the power system. However due to high amounts of AC current, and inductance, the resultant magnetic field can be fatal to human beings in close proximity to the reactor. Hence, using the above method, and tweaking the parameters according the reactor being used, we can very accurately predict the safety boundaries, beyond which humans can be safe. 
+
+2) Instead of the air core, we can insert Iron or some other ferromagnetic material inside the inductor and also try to design an electromagnet. 
