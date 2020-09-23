@@ -38,12 +38,12 @@ Now, open up FEMM 4.2 and follow the steps below
 
 This will create a sort of environment/ room in which our coil in placed.
 
-* (4.575,4),(4.575,6),(4.625,4),(4,625,6) for the left side
+* The co-ordinates (4.575,4),(4.575,6),(4.625,4),(4,625,6) for the left side
 and (5.375,4),(5.375,6),(5.425,4),(5.425,6) for the right side.
 
 This is the cross-section of our coil.
 
-2) Not that the plots are ready, we will have to specify the material inside these boundaries. 
+2) Now that the plot is ready, we will have to specify the material inside these boundaries. 
 
 * First, let's import the required materials.
     - click on ``Properties`` >> ``Materials Library`` 
