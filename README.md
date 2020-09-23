@@ -9,7 +9,7 @@ Finite Element Method Magnetics (FEMM) is a finite element package for solving 2
 
 This will take you through a step-by-step process to analyze the magnetic field of an aircored solenoid sitting in open space as shown below.
 
-![img]("https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/inductor_preview.jfif?raw=true")
+![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/inductor_preview.jfif?raw=true)
 
 I = 1700A
 Inner Dia = 0.75m
