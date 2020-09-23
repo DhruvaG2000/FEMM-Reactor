@@ -11,4 +11,4 @@ Material: Aluminium
 (0,0),(0,10),(10,0),(10,10) for boundary
 
 # results
-[Result Plot]("./img/results.PNG")
+[Result Plot]("https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG")
