@@ -45,10 +45,23 @@ This is the cross-section of our coil.
 * First, let's import the required materials.
     - click on ``Properties`` >> ``Materials Library`` 
     - drag and drop ``air`` and ``Aluminium 6061-T6`` as shown below.
-    
+
     ![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/materials.PNG)
 
-Select the green circle icon and then insert it in the open space, and the two smaller rectangles to have a total of 3 insertions. 
+    - Now, we need to create a circuit to specify the current flowing through the coil. 
+    For this, go to ``Properties`` >> ``Circuits`` >> ``Add Property`` and make the changes as shown below:
+
+    ![ckt](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/ckt.PNG)
+
+    - Now, select the green circle icon and then insert it anywhere inside the open space, and the two smaller rectangles. (refer diagram below)
+    
+        * Right click on the exterior region dot that you just inserted and hit ``space`` >> select ``Block type`` as ``Air`` >> unselect ``Let Triangle choose mesh``  >>``Mesh Size = 0.1`` >> and click ``OK`` 
+
+        * Right click on the dot in the smaller rectangle on left that you just inserted and hit ``space`` >> select ``Block type`` as ``Air`` >> unselect ``Let Triangle choose mesh``  >> ``Mesh Size = 0.1`` >> ``In circuit`` select ``coil`` >> ``no. of turns =  -100`` >> hit ``ok``
+
+        * Repeat everything again for the remaining dot except ``no. of turns =  100``.  
+    
+     
 
 ![green]()
 
