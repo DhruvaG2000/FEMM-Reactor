@@ -85,5 +85,7 @@ This is the cross-section of our coil.
 ![Result Plot](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG)
 
 # Areas of Application:
-    - Reactors are installed at substations to help stabilize the power system. However due to high amounts of AC current, and inductance, the resultant magnetic field can be fatal to human beings in close proximity to the reactor. Hence, using the above method, and tweaking the parameters according the reactor being used, we can very accurately predict the safety boundaries, beyond which humans can be safe. 
-    - Instead of the air core, we can insert Iron or some other ferromagnetic material inside the inductor and also try to design an electromagnet. 
+
+1) Reactors are installed at substations to help stabilize the power system. However due to high amounts of AC current, and inductance, the resultant magnetic field can be fatal to human beings in close proximity to the reactor. Hence, using the above method, and tweaking the parameters according the reactor being used, we can very accurately predict the safety boundaries, beyond which humans can be safe. 
+
+2) Instead of the air core, we can insert Iron or some other ferromagnetic material inside the inductor and also try to design an electromagnet. 
