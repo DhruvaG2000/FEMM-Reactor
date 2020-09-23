@@ -14,14 +14,45 @@ This will take you through a step-by-step process to analyze the magnetic field 
 In FEMM, we take a cross section of this solenoid along it's axis, imagine if the inductor was kept standing with it's axis facing upwards and you took a knife and cut it like a cake. 
 Basically, in a 2-D plane you will have something that looks like this...
 ![img]()
-I = 1700A
+** We are going to perform this Magnetic Field analysis according to the following specifications **
+current through the coil = 1700A
+
 Inner Dia = 0.75m
+
 OD = 0.85m
+
 Material: Aluminium
 
-1) Plot the points 
-(0,0),(0,10),(10,0),(10,10) for boundary
+Now, open up FEMM 4.2 and follow the steps below
 
+1) Plot the points 
+
+(**NOTE** press the dot icon on top left and hit tab to enter the co-ordinates)
+
+* (0,0),(0,10),(10,0),(10,10) for boundary
+
+![bound](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/boundary.PNG)
+
+This will create a sort of environment/ room in which our coil in placed.
+
+* (4.575,4),(4.575,6),(4.625,4),(4,625,6) for the left side
+and (5.375,4),(5.375,6),(5.425,4),(5.425,6) for the right side.
+
+This is the cross-section of our coil.
+
+2) Not that the plots are ready, we will have to specify the material inside these boundaries. 
+
+* First, let's import the required materials.
+    - click on ``Properties`` >> ``Materials Library`` 
+    - drag and drop ``air`` and ``Aluminium 6061-T6`` as shown below.
+    
+    ![img](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/materials.PNG)
+
+Select the green circle icon and then insert it in the open space, and the two smaller rectangles to have a total of 3 insertions. 
+
+![green]()
+
+Plot 
 # results
 
 ![Result Plot](https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/results.PNG)
