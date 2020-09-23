@@ -21,4 +21,4 @@ Material: Aluminium
 
 # results
 
-![Result Plot]("https://github.com/DhruvaG2000/FEMM-inductor-tutorial/blob/master/img/inductor_preview.jfif?raw=true")
+![Result Plot](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQ6wTWwvR_pGUFzuGJ9f3pEal-LdEjtEMSKA&usqp=CAU)
